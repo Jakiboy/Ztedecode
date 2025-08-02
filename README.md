@@ -2,7 +2,8 @@
 
 This is an adapted clone of [ZTE Config Utility](https://github.com/mkst/zte-config-utility) used for [Ratr](https://github.com/Jakiboy/Ratr).
 
-Use [source](https://github.com/mkst/zte-config-utility) instead.
+> [!CAUTION]
+> Use [source](https://github.com/mkst/zte-config-utility) instead.
 
 ## Installing
 
@@ -19,3 +20,7 @@ python Ztedecode.py config.bin config.xml --try-all-known-keys
 ## Teseted:
 
 * **ZTE ZXHN H267N** ^1.x
+
+## Resources
+
+* [Pycryptodomex](https://pypi.org/project/pycryptodomex/)
