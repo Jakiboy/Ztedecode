@@ -3,7 +3,7 @@
 This is an adapted clone of [ZTE Config Utility](https://github.com/mkst/zte-config-utility) used for [Ratr](https://github.com/Jakiboy/Ratr).
 
 > [!CAUTION]
-> Use [source](https://github.com/mkst/zte-config-utility) instead.
+> This repository has been adapted for personal use (Ratr). Please use the original source [source](https://github.com/mkst/zte-config-utility) instead.
 
 ## Installing
 
